@@ -21,4 +21,4 @@ The **Events** tab previews the work being performed by CloudFormation.
 ![alt text](/AWSCloudFormation/AWS Lab/StackEvents.JPG)
 
 When the stack status is *CREATE_COMPLETE* , it means the resources have been created.
-![alt text](/AWSCloudFormation/AWS Lab/CreateStack.JPG)
+![alt text](/AWSCloudFormation/AWS%20Lab/CreateStack.JPG)
