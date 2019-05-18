@@ -18,7 +18,7 @@ For example, you can create a **public-facing subnet** for your web servers that
 The stack status will be *CREATE_IN_PROGRESS* until the resources have been deployed.
 
 The **Events** tab previews the work being performed by CloudFormation.  
-![alt text](AWSCloudFormation\AWS Lab\StackEvents.JPG)
+![alt text](AWSCloudFormation/AWS Lab/StackEvents.JPG)
 
 When the stack status is *CREATE_COMPLETE* , it means the resources have been created.
-![alt text](AWSCloudFormation\AWS Lab\CreateStack.JPG)
+![alt text](AWSCloudFormation/AWS Lab/CreateStack.JPG)
