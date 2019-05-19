@@ -23,7 +23,7 @@ The **Events** tab previews the work being performed by CloudFormation.
 When the stack status is *CREATE_COMPLETE* , it means the resources have been created.
 ![alt text](/AWSCloudFormation/AWS%20Lab/CreateStack.JPG)
 7. Click on the **Resources** tab. A list of resources is displayed.  
-![alt text](/AWSCloudFormation/AWS%20Lab/Stackresources.JPG)
+![alt text](/AWSCloudFormation/AWS%20Lab/StackResources.JPG)
 
 ### Examine the VPC
 The following resources are created by CloudFormation.
@@ -193,10 +193,10 @@ Once a CloudFormation stack has been deployed, it is recommended that any change
       * Click Update Stack  
 ![alt text](/AWSCloudFormation/AWS%20Lab/UpdateStack.JPG)  
 2. Click Events tab > Stack Info Tab to check status      
-![alt text](/AWSCloudFormation/AWS%20Lab/Update%20 Complete.JPG)
+![alt text](/AWSCloudFormation/AWS%20Lab/Update%20Complete.JPG)
 3. Click Services> VPC> subnets. Four subnets are now displayed.   
 ![alt text](/AWSCloudFormation/AWS%20Lab/UpdateSubnets.JPG)  
-![alt text](/AWSCloudFormation/AWS%20Lab/Updatedsubnetasociations.JPG)  
+![alt text](/AWSCloudFormation/AWS%20Lab/Updatedsubnetassociatons.JPG)  
 The VPC has now been updated to support Highly Available applications.
 
 ### View Stack in CloudFormation Designer
